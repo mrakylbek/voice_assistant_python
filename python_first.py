@@ -270,4 +270,4 @@ if __name__ == '__main__':
 # #             print("Could not recognize speech.")
 # #             speak('Sorry, tell me something')
 
-            
+            # https://pythonist.ru/golosovoj-pomoshhnik-na-python/
