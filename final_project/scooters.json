@@ -1,0 +1,27 @@
+[
+  {
+    "scooter_id": "123456",
+    "battery_percentage": 80,
+    "range_km": 50
+  },
+  {
+    "scooter_id": "789012",
+    "battery_percentage": 100,
+    "range_km": 70
+  },
+  {
+    "scooter_id": "345678",
+    "battery_percentage": 30,
+    "range_km": 20
+  },
+  {
+    "scooter_id": "901234",
+    "battery_percentage": 50,
+    "range_km": 30
+  },
+  {
+    "scooter_id": "567890",
+    "battery_percentage": 71,
+    "range_km": 41
+  }
+]

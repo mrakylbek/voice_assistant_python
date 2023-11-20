@@ -1,0 +1,4 @@
+INFO:root:Successfully rented Model X to John Doe.
+INFO:root:Successfully rented Model Y to Jane Doe.
+INFO:root:Successfully returned Model X.
+INFO:root:Successfully returned Model Y.

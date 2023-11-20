@@ -1,0 +1,38 @@
+[
+  {
+    "user_id": "c04d4562-c70a-45d5-9b4b-074f83d539dc",
+    "username": "John Doe",
+    "email": "john@example.com",
+    "city": "New York"
+  },
+  {
+    "user_id": "d2026dc7-c685-4813-a2ff-1f913a440922",
+    "username": "John Doe",
+    "email": "john@example.com",
+    "city": "New York"
+  },
+  {
+    "user_id": "d97d538e-1029-44e9-b133-e00c97137dab",
+    "username": "Akylbek",
+    "email": "mra@bc.kz",
+    "city": "Almaty"
+  },
+  {
+    "user_id": "75ff3ba5-7182-4c45-9183-f354f345ac48",
+    "username": "Akylbek",
+    "email": "mra@bc.kz",
+    "city": "Almaty"
+  },
+  {
+    "user_id": "22cd6538-4fcf-472e-8b8a-90656ee2da62",
+    "username": "Mr",
+    "email": "mra@ala.kz",
+    "city": "Almaty"
+  },
+  {
+    "user_id": "f5864b91-0643-467e-bea3-3df1afd8d287",
+    "username": "MrA",
+    "email": "mra@kz.kz",
+    "city": "Almaty"
+  }
+]
