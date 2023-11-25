@@ -36,7 +36,8 @@ class RentalSystem:
     def get_weather(self, city):
         # Replace 'YOUR_API_KEY' with your OpenWeatherMap API key
         api_key = 'YOUR_API_KEY'
-        url = f'http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}'
+        # url = f'http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}'
+        url = f'https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/`almaty?unitGroup=metric&key=EBS3LX83JHMLCDGPMHXFQ3VZG&contentType=json'
         response = requests.get(url)
 
         if response.status_code == 200:
